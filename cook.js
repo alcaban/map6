@@ -1,7 +1,7 @@
 var data = {
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
+"features": 
 { "type": "Feature", "properties": { "GEOID_A": "17031", "GEOID_B": "06001", "State_A": "Illinois", "County_A": "Cook County", "State_B": "California", "County_B": "Alameda County", "Flow_B2A": 823, "Flow_A2B": null, "Net_B2A": -425, "A_lon": -87.8169, "A_lat": 41.84, "B_lon": -121.8889, "B_lat": 37.6465 }, "geometry": { "type": "Point", "coordinates": [ -87.8169, 41.84 ] } },
 { "type": "Feature", "properties": { "GEOID_A": "17031", "GEOID_B": "06059", "State_A": "Illinois", "County_A": "Cook County", "State_B": "California", "County_B": "Orange County", "Flow_B2A": 842, "Flow_A2B": null, "Net_B2A": -272, "A_lon": -87.8169, "A_lat": 41.84, "B_lon": -117.761, "B_lat": 33.7031 }, "geometry": { "type": "Point", "coordinates": [ -87.8169, 41.84 ] } },
 { "type": "Feature", "properties": { "GEOID_A": "17031", "GEOID_B": "12011", "State_A": "Illinois", "County_A": "Cook County", "State_B": "Florida", "County_B": "Broward County", "Flow_B2A": 916, "Flow_A2B": null, "Net_B2A": -238, "A_lon": -87.8169, "A_lat": 41.84, "B_lon": -80.4873, "B_lat": 26.1522 }, "geometry": { "type": "Point", "coordinates": [ -87.8169, 41.84 ] } },
